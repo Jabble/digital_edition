@@ -1,3 +1,10 @@
+---
+layout: default
+title: Assessing Technology-based Projects for Promotion and/or Tenure in ARL Academic Libraries
+author: Karen G. Lawson
+source: Internet
+---
+
 # Assessing Technology-based Projects for Promotion and/or Tenure in ARL Academic Libraries
 Karen G. Lawson and Nancy L. Pelzer
 
