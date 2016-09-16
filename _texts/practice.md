@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: Assessing Technology-based Projects for Promotion and/or Tenure in ARL Academic Libraries
 author: Karen G. Lawson
 source: Internet
