@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
+title:               Practice Digital Edition.
 tagline:             'A Jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://oncomouse.github.io'
-baseurl:             '/ed'
+url:                 'http://Jabble.github.io'
+baseurl:             '/digital_edition'
 
 # About/contact
 author:
